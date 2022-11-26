@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @uchehart
-- 👀 I’m interested in startups &  products that increase the quality of life 
-- 🌱 I’m do magic with (Flutter x Dart) | (PHP x Laravel) & sometimes Angular | AI enthusiast 🦄
+
+
+
+# Who?
+- 👋 I’m Nefelibata
+- 🌱 A Magician
+- 👀 I’m interested in buliding startups &  products that increase the quality of life 
 - 💞️ I’m looking to collaborate on  fun projects 
+
+
+# Technology Stacks
+Language: (Flutter x Dart) | (PHP x Laravel) & sometimes Angular | AI enthusiast 
+DBMS: MySQL, PostgreSQL, MongoDB
+Infrastructure: Docker
 
 
 <!---
