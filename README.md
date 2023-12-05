@@ -4,12 +4,12 @@
 # Who?
 - 👋 I’m Nefelibata
 - 🌱 A Magician
-- 👀 I’m interested in buliding startups &  products that increase the quality of life 
+- 👀 I’m interested in building startups &  products that increase the quality of life 
 - 💞️ I’m looking to collaborate on  fun projects 
 
 
 # Technology Stacks
-Language: (Flutter x Dart) | (PHP x Laravel) & sometimes Angular | AI enthusiast 
+Language: (Flutter x Dart) | (PHP x Laravel) |Javascript & Vue | AI enthusiast 
 DBMS: MySQL, PostgreSQL, MongoDB
 Infrastructure: Docker
 
