@@ -9,11 +9,12 @@
 
 
 # Technology Stacks
-Language: (Flutter x Dart) | (PHP x Laravel) |Javascript & Vue | AI enthusiast 
+Language: (Flutter x Dart) | (PHP x Laravel) |Javascript & Apline js | AI enthusiast 
 DBMS: MySQL, PostgreSQL, MongoDB
 Infrastructure: Docker
 
-Currently building Foodsub.africa 
+Currently building Schoolwallet
+And learning Eletronic, micro controllers & C++
 
 
 <!---
