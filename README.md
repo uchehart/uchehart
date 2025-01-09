@@ -2,9 +2,9 @@
 
 
 # Who?
-- 👋 I’m Nefelibata
+- 👋 I’m Hart
 - 🌱 A Magician
-- 👀 I’m interested in building startups &  products that increase the quality of life 
+- 👀 I’m interested in building and talking about startups &  products that increase the quality of life 
 - 💞️ I’m looking to collaborate on  fun projects 
 
 
@@ -14,7 +14,7 @@ DBMS: MySQL, PostgreSQL, MongoDB
 Infrastructure: Docker
 
 Currently building Schoolwallet
-And learning Eletronic, micro controllers & C++
+And learning Electronics, microcontrollers & C++
 
 
 <!---
