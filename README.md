@@ -9,7 +9,7 @@
 
 
 # Technology Stacks
-Language: (Flutter x Dart) | (PHP x Laravel) |Javascript & Apline js | AI enthusiast 
+Language: (Flutter x Dart) | (PHP x Laravel) |Javascript( Aplinejs & Reactjs) | C++ Embedded systerm AI enthusiast 
 DBMS: MySQL, PostgreSQL, MongoDB
 Infrastructure: Docker
 
